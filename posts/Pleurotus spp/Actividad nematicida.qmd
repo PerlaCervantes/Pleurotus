@@ -1,0 +1,96 @@
+---
+title: "Actividad nematicida"
+author: "Perla Cervantes"
+date: "2024-07-07"
+categories: [Actividad nematicida]
+lang: es
+bibliography: references.bib
+---
+
+# Nematodos
+
+::: {style="text-align:justify"}
+Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011). Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne*  (@Fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014)(. El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
+
+::: {style="text-align:center"}
+![*Meloidogyne paranaensis*](nema.png){#Fig-nema}
+:::
+
+
+# Efecto nematicida
+
+El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017). Este género de basidiomicetos posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos) @armas-tizapantzi2019. Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas como se puede observar en la @tbl-compuestos (@li2014a.
+:::
+
+::: {style="text-align:center"}
+:Compuesto con actividad nematicida {#tbl-compuestos}
+
+|*Pleurotus pulmonarius*|*Pleurotus ostreatus*|*Pleurotus djamor*|
+|-----------------------|---------------------|------------------|
+|Ácido s-coriolico|Ácido trans-2-decenedioico| Ácidos grasos:
+|Ácido linoleico|-| Pentadecanoico
+|p-anisaldehído|-|Hexadecanoico
+|Alcohol p-anisílico|-|Octadecadenoico
+|1-(4- metoxifenil) 1|-|Octadecanoico
+|2-propanediol|-|Terpeno βsistosterol
+|2-hidroxi-(4-metoxi propiofenona)|
+|@stadler1994|@armas-tizapantzi2019|@pineda-alegría2017
+:::
+
+::: {style="text-align:justify"}
+Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus (*(Cuevas, 2019;@pineda-alegría2017) y *M. javanica* (@sufiate2017) así como capacidad larvicida sobre *Globodera pallida* @arteaga2020, *M. javanica* @heydari2006, *Heterodera schachtii* @palizi2009 y *M. enterolobii* @gómez-rodríguez2022
+:::
+
+::: {style="text-align:center"}
+![*Pleurotus pulmonarius; P. ostretaus; P. djamor*](pleu2.png)
+:::
+
+::: {style="text-align:justify"}
+Con base en eso, Se establecerá un experimento en laboratorio para evaluar la efectividad en la inhibición de la eclosión, capacidad ovicida y larvicida y uno _in planta_ para la efectividad biológica en la reproducción de _Meloidogyne paranaensis_ en plantas de tomate, así como la determinación de los perfiles metabólicos mediante RMN. 
+:::
+
+# Objetivo
+
+Identificar y evaluar el efecto los metabolitos secundarios en la actividad nematicida de los extractos del filtrado del caldo de fermentación y biomasa micelial de *Pleurotus* spp. a nivel *in vitro* e *in vivo* mediante metabolómica.
+
+# Metodología
+
+::: {style="text-align:justify"}
+El experimento se desarrollará en el Instituto de Ecología (INECOL), en el Laboratorio de Parasitología y Control Biológico y área de invernaderos de la Facultad de Ciencias Agrícolas de la Universidad Veracruzana, campus Xalapa y en el Instituto de Química Aplicada. Se emplearán las especies *P. ostreatus*, *P. pulmonarius* y *P. djamor* var. *salmoneostramineus* de la Unidad de Biotecnología de Hongos Comestibles y Medicinales del Instituto de Ecología (INECOL).
+:::
+
+::: panel-tabset
+## Obtención de extractos
+
+Extractos del caldo de fermentación y biomasa liofilizada de cada una de las cepas con base en resultados de estandarización de condiciones de crecimiento (tiempo de fermentación, cantidad de inóculo y medio a utilizar).
+
+## Perfiles químicos
+
+Por medio de Resonancia Magnética Nuclear (RMN).
+
+(Tejeda, 2021)
+
+## Evaluación nematicida
+
+*In vitro*
+
+
+@sikandar2020 @gómez-rodríguez2022 @pineda-alegría2024
+
+*In vivo*
+
+
+@lópez-lima2023
+
+(Coyne y Ross, 2014; López-Lima et al., 2023)
+
+## Estudio metabolómico
+
+Correlación de la efectividad biológica y perfiles químicos para la determinación del compuesto. 
+:::
+
+
+
+::: {style="text-align:justify"}
+_Pleurotus_ spp. es una fuente potencial de bioactivos para diferentes áreas: salud humana y animal, sector agrícola, industria y medio ambiente. Existen múltiples investigaciones reportando concentraciones, técnicas y metabolitos secundarios que son la base para el seguimiento ya no sólo a nivel in vitro sino para evaluar a un nivel in vivo, ampliando así el panorama de las líneas de investigación a las que puede aplicar. Con base en esto, los resultados de este proyecto contribuirán al desarrollo de estrategias de manejo integrado de nematodos fitoparásitos empleando especies del género.
+::: 

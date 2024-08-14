@@ -1,0 +1,10 @@
+---
+title: "Identificación de compuestos"
+author: "Perla C"
+date: "2024-07-07"
+categories: [Identificación de compuestos]
+---
+
+La extracción por solventes permite una recuperación del 95%. Se emplean disolventes derivados del petróleo (acetona, heptano, hexano, benceno) (Giraldo, Velásquez y Cuartas, 2010). Se basan principalmente en la maceración de la materia vegetal con los diferentes solventes y posteriormente su eliminación. Algunos de los extractos más empleados son los etanólicos; se obtienen a partir de la mezcla del material con etanol a una concentración determinada (Carbay y Sorroza, 2019), hidroalcohólicos; empleando una solución de agua:metanol a una relación determinada para finalmente retirar el solvente por filtración y liofilización (Morales-Ubaldo et al., 2020), hexánicos; maceración con hexano a una concentración determinada (Centurión-Hidalgo, Espinosa-Moreno, Mayo-Mosqueda, Frías-Jiménez & Velázquez-Martínez, 2013), butanol, clorofórmico; material vegetal seco y extracción con cloroformo (Marrero, Morales y Gutiérrez, 2017), acetato de etilo, metanol, acetona, benceno etc., incluso se emplean extractos donde se mezclan diferentes disolventes. 
+
+![](tlc.jpg)

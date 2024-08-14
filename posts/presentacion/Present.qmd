@@ -1,0 +1,29 @@
+---
+title: "Capacidad nematicida de _Pleurotus_ spp."
+author: "Perla C."
+format: 
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
+
+title-slide-attributes: 
+  data-background-image: "pleu2.jpg"
+  data-background-size: "100%"
+  data-background-opacity: "25%"
+
+lang: es
+
+image: pleu2.jpg
+---
+
+## Introducción
+
+::: {style="text-align:justify"}
+*Pleurotus* posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos).
+
+Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas
+:::
+
+![Toxocisto *P. ostreatus* en placa en PDA](toxo.jpg)
+
+
+
